@@ -7,7 +7,7 @@ Took from workshop [Time lapse + 3D Digital Clock](http://steamcommunity.com/sha
 
 ## How to install (for end users)
 
-1. Go to http://steamcommunity.com/sharedfiles/filedetails/?id=837924988 and subscribe
+1. Go to http://steamcommunity.com/sharedfiles/filedetails/?id=837960115 and subscribe
 2. The files of this wallpaper should be available at `{Your steam library path}\SteamApps\workshop\content\431960`
 
 ## How to install (for devs)
