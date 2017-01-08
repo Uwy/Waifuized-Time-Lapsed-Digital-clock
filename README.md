@@ -53,7 +53,7 @@ git clone https://github.com/Uwy/Waifuized-Time-Lapsed-Digital-clock.git
   ```html
   <div style="position:absolute;left: {x position}px; top: {y position}px;"  class="time" id="time" data-hours="" data-minutes="">  <div class="digit">
   ```
-  Where {x position} is the x offset in pixels from the left side of your screen
-  And {y position} is the y offset in pixels from the top of your screen
+  Where `{x position}` is the x offset in pixels from the left side of your screen
+  And `{y position}` is the y offset in pixels from the top of your screen
 
 4. Select another wallpaper in wallpaper engine and select this one back and voilà !
