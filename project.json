@@ -1,0 +1,22 @@
+{
+	"description" : "Same as the Time lapse + clock but with centered clock and 竜宮 礼奈 as background",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.gif",
+	"title" : "Waifuised Time Lapse + Clock",
+	"type" : "web",
+	"visibility" : "public"
+}
