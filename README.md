@@ -7,18 +7,18 @@ Took from workshop ![Time lapse + 3D Digital Clock](http://steamcommunity.com/sh
 
 ## How to install 
 
-Go to wallpaper engine project folder
+1. Go to wallpaper engine project folder
 ```bash
 cd {Steam library path}\SteamApps\common\wallpaper_engine\projects\myprojects
 ```
 
-Clone this repo
+2. Clone this repo
 
 ```bash
 git clone https://github.com/Uwy/Waifuized-Time-Lapsed-Digital-clock.git
 ```
 
-And you're done, pretty much
+3. Start wallpaper engine and select this one and you're done, pretty much
 
 ## How to change the background
 
@@ -39,6 +39,7 @@ And you're done, pretty much
   Where `{my picture name with extension }` is the picture you just put in the `img` folder
 
   *Note : Get a list of what's supported as an image at [the MDN doc for this CSS attribute](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image)*
+4. Select another wallpaper in wallpaper engine and select this one back and voilà !
   
   
 ## How to change clock position
@@ -50,10 +51,9 @@ And you're done, pretty much
   ```
   By
   ```html
-    <div style="position:absolute;left: {x position}px; top: {y position}px;"  class="time" id="time" data-hours="" data-minutes="">  <div class="digit">
+  <div style="position:absolute;left: {x position}px; top: {y position}px;"  class="time" id="time" data-hours="" data-minutes="">  <div class="digit">
   ```
   Where {x position} is the x offset in pixels from the left side of your screen
   And {y position} is the y offset in pixels from the top of your screen
-  ```
 
-  
+4. Select another wallpaper in wallpaper engine and select this one back and voilà !
