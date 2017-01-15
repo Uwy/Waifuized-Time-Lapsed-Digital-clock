@@ -4,9 +4,15 @@ body{background-image: url(1.jpg);} :root {
 }
 
 .time {
+
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+    /* MAGIC HAPPENS HERE */
+    /*
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+          */
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
@@ -20,8 +26,8 @@ body{background-image: url(1.jpg);} :root {
 * {
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  -webkit-perspective: 1000px;
-          perspective: 1000px;
+  -webkit-perspective: 4000px;
+          perspective: 4000px;
 }
 
 .digit {
@@ -29,8 +35,8 @@ body{background-image: url(1.jpg);} :root {
   width: 10vmin;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  -webkit-perspective: 1000px;
-          perspective: 1000px;
+  -webkit-perspective: 4000px;
+          perspective: 4000px;
   margin: 0 1rem;
 }
 .digit, .digit:after, .digit:before {
@@ -700,8 +706,8 @@ body{background-image: url(1.jpg);} :root {
   position: absolute;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  -webkit-perspective: 1000px;
-          perspective: 1000px;
+  -webkit-perspective: 4000px;
+          perspective: 4000px;
 }
 .line:before, .line:after {
   content: '';
@@ -793,14 +799,14 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url(../1.jpg) no-repeat;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  -webkit-perspective: 1000px;
-          perspective: 1000px;
+  -webkit-perspective: 4000px;
+          perspective: 4000px;
 }
 
 body, html {
+  overflow: hidden;
   height: 100%;
   width: 100%;
   margin: 0;
