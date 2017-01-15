@@ -3,9 +3,14 @@
 # Waifuized-Time-Lapsed-Digital-clock
 A wallpaper for wallpaper engine
 
-Took from workshop ![Time lapse + 3D Digital Clock](http://steamcommunity.com/sharedfiles/filedetails/?id=835186492) and enhanced with centered on clock rotation effects and 竜宮 礼奈 as background
+Took from workshop [Time lapse + 3D Digital Clock](http://steamcommunity.com/sharedfiles/filedetails/?id=835186492) and enhanced with centered on clock rotation effects and 竜宮 礼奈 as background
 
-## How to install 
+## How to install (for end users)
+
+1. Go to http://steamcommunity.com/sharedfiles/filedetails/?id=837960115 and subscribe
+2. The files of this wallpaper should be available at `{Your steam library path}\SteamApps\workshop\content\431960`
+
+## How to install (for devs)
 
 1. Go to wallpaper engine project folder
 
